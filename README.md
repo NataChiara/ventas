@@ -1,2 +1,2 @@
 # ventas
-Statistic analysis of sample data
+Statistic analysis of sample data using Power BI
